@@ -1,0 +1,19 @@
+# LANGCHAIN 
+langchain 
+langchain-community 
+langchain-google-genai 
+langchain-core 
+
+# API AND FRONTEND
+fastapi==0.95.2
+pydantic==1.10.13
+uvicorn 
+streamlit 
+python-dotenv
+
+# EMBEDDINGS AND VECTOR STORE 
+sentence-transformers
+faiss-cpu
+requests
+python-multipart
+pypdf
