@@ -68,7 +68,7 @@ with st.sidebar:
 
 
 # --- Main Chat Interface ---
-st.title("💬 AI Course RAG Assistant")
+st.title("💬 RAG Assistant")
 
 if "messages" not in st.session_state:
     st.session_state.messages = [
