@@ -11,7 +11,7 @@ DELETE_ENDPOINT = f"{API_URL}/delete-store"
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="AI Course RAG Assistant",
+    page_title="RAG Assistant",
     page_icon="🤖",
     layout="centered",
 )
